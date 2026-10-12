@@ -1,0 +1,152 @@
+{
+ "portada": {
+  "title": "File:The School of Athens by Raffaello Sanzio da Urbino.jpg",
+  "file": "escuela-de-atenas.jpg",
+  "bytes": 935969,
+  "width": 17402,
+  "height": 12132,
+  "artist": "Raphael Sanzio",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:The_School_of_Athens_by_Raffaello_Sanzio_da_Urbino.jpg"
+ },
+ "platon": {
+  "title": "File:Plato by Raphael.png",
+  "file": "platon-detalle.jpg",
+  "bytes": 340219,
+  "width": 395,
+  "height": 430,
+  "artist": "Raphael",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Plato_by_Raphael.png"
+ },
+ "aristoteles": {
+  "title": "File:Aristotle Altemps Inv8575.jpg",
+  "file": "aristoteles.jpg",
+  "bytes": 2244558,
+  "width": 1700,
+  "height": 2275,
+  "artist": "After Lysippos",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg"
+ },
+ "descartes": {
+  "title": "File:Frans Hals, Portrait of René Descartes.jpg",
+  "file": "descartes.jpg",
+  "bytes": 800877,
+  "width": 2178,
+  "height": 2958,
+  "artist": "Frans Hals",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Frans_Hals,_Portrait_of_Ren%C3%A9_Descartes.jpg"
+ },
+ "locke": {
+  "title": "File:Godfrey Kneller - Portrait of John Locke (Hermitage).jpg",
+  "file": "locke.jpg",
+  "bytes": 523644,
+  "width": 2018,
+  "height": 2460,
+  "artist": "Godfrey Kneller",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Godfrey_Kneller_-_Portrait_of_John_Locke_(Hermitage).jpg"
+ },
+ "hume": {
+  "title": "File:Allan Ramsay - David Hume, 1711 - 1776. Historian and philosopher - Google Art Project.jpg",
+  "file": "hume.jpg",
+  "bytes": 510044,
+  "width": 3365,
+  "height": 4001,
+  "artist": "Allan Ramsay",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Allan_Ramsay_-_David_Hume,_1711_-_1776._Historian_and_philosopher_-_Google_Art_Project.jpg"
+ },
+ "humboldt": {
+  "title": "File:Portret van W. von Humboldt. Naar F. Krueger, buste en face. Onderaan links Gez. v. F. Krüger, in het midden Druck v. RP-P-1903-A-23176.jpg",
+  "file": "humboldt.jpg",
+  "bytes": 971450,
+  "width": 5198,
+  "height": 6720,
+  "artist": "Rijksmuseum",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Portret_van_W._von_Humboldt._Naar_F._Krueger,_buste_en_face._Onderaan_links_Gez._v._F._Kr%C3%BCger,_in_het_midden_Druck_v._RP-P-1903-A-23176.jpg"
+ },
+ "gall-cuadro": {
+  "title": "File:Phrenological chart; with design of head containing symbols Wellcome V0009523.jpg",
+  "file": "gall-cuadro.jpg",
+  "bytes": 752206,
+  "width": 2505,
+  "height": 3394,
+  "artist": "Wellcome Collection",
+  "license": "CC BY 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Phrenological_chart;_with_design_of_head_containing_symbols_Wellcome_V0009523.jpg"
+ },
+ "lamarck": {
+  "title": "File:Jean Baptiste Pierre Antoine de Monet Lamarck. Coloured etch Wellcome V0003325.jpg",
+  "file": "lamarck.jpg",
+  "bytes": 2380805,
+  "width": 2196,
+  "height": 3179,
+  "artist": "",
+  "license": "CC BY 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Jean_Baptiste_Pierre_Antoine_de_Monet_Lamarck._Coloured_etch_Wellcome_V0003325.jpg"
+ },
+ "helmholtz": {
+  "title": "File:Hermann Ludwig Ferdinand von Helmholtz. Photograph by W.J. S Wellcome V0026534.jpg",
+  "file": "helmholtz.jpg",
+  "bytes": 1009105,
+  "width": 2244,
+  "height": 3132,
+  "artist": "",
+  "license": "CC BY 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hermann_Ludwig_Ferdinand_von_Helmholtz._Photograph_by_W.J._S_Wellcome_V0026534.jpg"
+ },
+ "helmholtz-resonador": {
+  "title": "File:Helmholtz resonator.jpg",
+  "file": "helmholtz-resonador.jpg",
+  "bytes": 482621,
+  "width": 1252,
+  "height": 1360,
+  "artist": "",
+  "license": "CC BY-SA 2.5",
+  "source": "https://commons.wikimedia.org/wiki/File:Helmholtz_resonator.jpg"
+ },
+ "fechner": {
+  "title": "File:Gustav Theodor Fechner (1801-1887) in old age (cropped).jpg",
+  "file": "fechner.jpg",
+  "bytes": 617063,
+  "width": 2129,
+  "height": 3071,
+  "artist": "Unknown authorUnknown author",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Gustav_Theodor_Fechner_(1801-1887)_in_old_age_(cropped).jpg"
+ },
+ "darwin": {
+  "title": "File:Charles Robert Darwin by John Collier.jpg",
+  "file": "darwin.jpg",
+  "bytes": 327159,
+  "width": 2400,
+  "height": 3124,
+  "artist": "John Collier",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Charles_Robert_Darwin_by_John_Collier.jpg"
+ },
+ "darwin-arbol": {
+  "title": "File:Darwin Tree 1837.png",
+  "file": "darwin-arbol.jpg",
+  "bytes": 3747549,
+  "width": 1390,
+  "height": 2265,
+  "artist": "Charles Darwin",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Darwin_Tree_1837.png"
+ },
+ "gall-busto": {
+  "title": "File:Porcelain phrenological bust, tinted skin colour, divisions Wellcome L0058696.jpg",
+  "file": "gall-busto.jpg",
+  "bytes": 157541,
+  "width": 2832,
+  "height": 4256,
+  "artist": "Wellcome Collection",
+  "license": "CC BY 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Porcelain_phrenological_bust,_tinted_skin_colour,_divisions_Wellcome_L0058696.jpg"
+ }
+}
